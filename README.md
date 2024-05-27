@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris-Mayes
-- 👀 I’m interested in deep learning, data, and software development
+- 👀 I’m interested in cloud computing, deep learning, data, and software development
 - 📫 How to reach me: chris@mayes.me
 
 <!---
